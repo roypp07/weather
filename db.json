@@ -1,4 +1,5 @@
-[
+{
+  "posts":[
   {
   "city":"kolkata",
   "condition":"cloudy",
@@ -9,4 +10,9 @@
   "condition":"Sunny",
   "temp":40
 }
-]
+],
+,
+  "profile": {
+    "name": "royppWeather"
+  }
+}
