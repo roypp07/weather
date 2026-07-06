@@ -10,9 +10,5 @@
   "condition":"Sunny",
   "temp":40
 }
-],
-"profile": 
-{
-    "name": "royppWeather"
-  }
+]
 }
