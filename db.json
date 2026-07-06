@@ -1,17 +1,17 @@
 {
   "posts":[
   {
-  "city":"Kolkata",
+  "city":"kolkata",
   "condition":"cloudy",
   "temp":38.2
 },
   {
-  "city":"London",
+  "city":"london",
   "condition":"Sunny",
   "temp":40
 },
     {
-  "city":"New York",
+  "city":"new york",
   "condition":"Sunny",
   "temp":33.3
 }
