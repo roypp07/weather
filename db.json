@@ -1,0 +1,12 @@
+[
+  {
+  "city":"kolkata",
+  "condition":"cloudy",
+  "temp":38.2
+},
+  {
+  "city":"London",
+  "condition":"Sunny",
+  "temp":40
+}
+]
