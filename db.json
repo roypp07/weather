@@ -1,7 +1,7 @@
 {
   "posts":[
   {
-  "city":"kolkata",
+  "city":"Kolkata",
   "condition":"cloudy",
   "temp":38.2
 },
@@ -9,6 +9,11 @@
   "city":"London",
   "condition":"Sunny",
   "temp":40
+},
+    {
+  "city":"New York",
+  "condition":"Sunny",
+  "temp":33.3
 }
 ]
 }
